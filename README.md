@@ -80,6 +80,7 @@ I am dedicated and passionate about my Web Developer <br>Journey and learn many 
 <h3>Contact</h3>
 <a href="http: //www.google.com>maheshwarim.cse25@sbjit.edu.in</a>
 <h4>****8532</h4>
+  </section>
 </body>
 </head>
 </html>
